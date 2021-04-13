@@ -16,6 +16,6 @@
 
 ## Find me around the web 🌎: 
 - Sharing updates on <a href="https://www.linkedin.com/in/swarupap/">LinkedIn</a> 💼
-- Content creator on <a href ="https://twitter.com/swarupap3/">Twitter</a>
+- Content creator on <a href ="https://twitter.com/swarupap3/">Twitter</a>📹 ✍🏾
 
 
