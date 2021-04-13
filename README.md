@@ -1,9 +1,4 @@
-### Hi there,I'm Swarupa!👋
-
-<br />
-<br /> 
-
-Hi,I'm Swarupa Rani , a passionate self-taught software developer from India.
+### Hi there,I'm Swarupa Rani!👋 , a passionate self-taught software developer from India.
 
 - 🔭 I’m currently working on Personal Projects on Javascript
 - 🌱 I’m currently learning React JS and Node JS/Full Stack Javascript
