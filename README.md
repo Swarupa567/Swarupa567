@@ -15,7 +15,7 @@ I am always on the lookout for new projects to work on and new people to collabo
     <a href="https://www.linkedin.com/in/swarupap/" target="_blank"">
 		<img align="center" src="images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
 	</a>
-	<a href="mailto:swarupachowdaryp@gmail.com" target="_blank">
+		<a href="swarupachowdaryp@gmail.com" target="_blank">
 		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
     </a>
 </p>
