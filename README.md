@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer |Passionate about AI and ML |<a href="https://public.tableau.com/app/profile/swarupap"><b> Data Analyst</b></a> </h3></h1>
          <h3 align = "center"> Based in Bangalore, Karnkataka.<br><br> </h3>
 <h4></h4>
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project..
+A self-taught, passionate and full-stack developer from Bangalore,India.Im looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web.I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 <br>
 <br>
                                                                                
