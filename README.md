@@ -24,8 +24,7 @@ A self-taught, passionate and full-stack developer from Bangalore,India.Im looki
 
 ## Profile Visits
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwarupa567&countColor=%23263759)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwarupa567&labelColor=%23ba68c8&countColor=%23d9e3f0&style=flat)
 
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://twitter.com/swarupap3">Twitter</a> 📹 ✍🏾
