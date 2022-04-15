@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React, Redux and TypeScript**
 
-- 👯 I’m looking to collaborate on **React projects**
+- 👯 I’m looking to collaborate on **React projects** with other passionate developers
 
-- 🤝 I’m looking learning **TypeScript, NextJs and GraphQL**
+- 🤝 I’m currently learning **TypeScript, NextJs and GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swarupa567](https://github.com/Swarupa567)
 
