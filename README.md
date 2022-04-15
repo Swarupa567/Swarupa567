@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **swarupachowdaryp@gmail.com**
 
-- 📄 Please review my resume and I'm open to any suggestions and feedback [https://drive.google.com/file/d/1qnpGhZMXqsRc7tgvjZVo9M0Amrsi-djo/view](https://drive.google.com/file/d/1qnpGhZMXqsRc7tgvjZVo9M0Amrsi-djo/view)
+- 📄 Please review my resume and I'm open to any suggestions and feedback [https://drive.google.com/file/d/1E8jvZ8Dt93meErrx6fuEaRAUbzREnk3F/view?usp=sharing](https://drive.google.com/file/d/1E8jvZ8Dt93meErrx6fuEaRAUbzREnk3F/view?usp=sharing)
 
 - ⚡ Fun fact **All work and no play!**
 
