@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **React, Redux and TypeScript**
-
 - 👯 I’m looking to collaborate on **React projects** with other passionate developers
 
 - 🤝 I’m currently learning **TypeScript, NextJs and GraphQL**
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **swarupachowdaryp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qnpGhZMXqsRc7tgvjZVo9M0Amrsi-djo/view](https://drive.google.com/file/d/1qnpGhZMXqsRc7tgvjZVo9M0Amrsi-djo/view)
+- 📄 Please review my resume and I'm open to any suggestions and feedback [https://drive.google.com/file/d/1qnpGhZMXqsRc7tgvjZVo9M0Amrsi-djo/view](https://drive.google.com/file/d/1qnpGhZMXqsRc7tgvjZVo9M0Amrsi-djo/view)
 
 - ⚡ Fun fact **All work and no play!**
 
