@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React projects**
 
-- 🤝 I’m looking for help **in learning Full-stack development**
+- 🤝 I’m looking learning **TypeScript, NextJs and GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swarupa567](https://github.com/Swarupa567)
 
