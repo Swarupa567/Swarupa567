@@ -24,7 +24,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupa567&show_icons=true&locale=en" alt="swarupa567" /></p>
-<a href="https://app.daily.dev/rupa"><img src="https://api.daily.dev/devcards/840f44faf32f41119a51558ad20665c2.png?r=v6d" width="400" alt="Swarupa's Dev Card"/></a>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
