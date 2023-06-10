@@ -5,7 +5,7 @@
 
 <h3>About me,</h3>
 <p>I'm Swarupa P working as a <strong>Frontend Engineer @Paytabs</strong>.I work with the tech stack of JavaScript, TailwindCSS, React, Redux, TypeScript and Jest. My expertise holds on to create pixel perfect websites. As of now, I'm focused on to become a expert as a frontend developer and beginner in designing websites.Other than my work, I like to explore new places for hiking and I would like to write on <a href="https://swarupa.hashnode.dev/">Hashnode</a>.✨</p>
-                                                   <h3> Explorer| Frontend Engineer | Writer & Traveller</h3>
+                                                   <h3> Explorer | Frontend Engineer | Writer & Traveller</h3>
   <div id="badges">
   <a href="https://www.linkedin.com/in/swarupap/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,8 +23,29 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
+                          <h3>I love to collaborate on any project especially open source projects.</h3>
+ <div id="badges">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="ReduxJs" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>                       
                                                    <h3> Github Analytics </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupa567&show_icons=true&locale=en&layout=compact" alt="swarupa567" /></p><br /> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupa567&show_icons=true&locale=en" alt="swarupa567" /></p>
 <p align="left">
-</p>
+  
+  <h1>Support My Work:</h1>
+  <div>
+  <a href="https://www.buymeacoffee.com/swarupap">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support Badge" />
+  </a>
+</div>
