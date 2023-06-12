@@ -23,6 +23,12 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
+<!--  <h2 align="center">About my Tech Stack</h2>
+ <span>
+  <p></p>
+
+  <img style="float:right;" src=![e726c74ac081eed50feee1433d12c998](https://github.com/Swarupa567/Swarupa567/assets/22514881/a12e2786-9950-42da-9753-9a451dcb06a3)/>
+</span> -->
                           <h3>I love to collaborate on any project especially open source projects.</h3>
  <div id="badges">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
