@@ -46,8 +46,10 @@
 </div>                       
                                                    <h3> Github Analytics </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupa567&show_icons=true&locale=en&layout=compact" alt="swarupa567" /></p><br /> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupa567&show_icons=true&locale=en" alt="swarupa567" /></p>
+<img src='https://github-readme-stats.vercel.app/api?username=Swarupa567&show_icons=true&locale=en' alt='github stats' />
+
 <p align="left">
+
   
   <h1>Support My Work:</h1>
   <div>
