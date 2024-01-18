@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+   <img alt="Static Badge" src="https://img.shields.io/badge/graphql">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Swarupa567&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
